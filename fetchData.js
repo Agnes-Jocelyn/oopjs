@@ -27,7 +27,7 @@
             <div class="card" style="width: 15rem;">
                 <img src="${avatar_url}" class="card-img-top">
                 <div class="card-body">
-                <span class="card-text"> Username : ${login} </span>
+                <span class="card-text"> Name : ${login} </span>
                 <br> <br>
                 <a href="${html_url}">
                      <button class =" btn btn-primary">
